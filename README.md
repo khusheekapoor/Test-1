@@ -7,11 +7,6 @@ This repository is for test purposes.
 
 ### Heading 3
 
-#### Heading 4
-
-##### Heading 5
- 
-##### Heading 6
 
 
 *   Pointer 1
